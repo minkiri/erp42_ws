@@ -1,0 +1,1 @@
+cmd='cd;/home/a/gps_ws/src/geographic_lib/GeographicLib-prefix/src/GeographicLib;&&;cmake;-D;CMAKE_INSTALL_PREFIX=/home/a/gps_ws/src/geographic_lib/devel;-D;GEOGRAPHICLIB_DATA=/home/a/gps_ws/src/geographic_lib/devel/share/geographic_lib/data;.'
