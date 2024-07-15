@@ -1,0 +1,5 @@
+<launch>
+    <node name="global_path_publisher" pkg="control" type="global_path_pub.py" output="screen"/>
+    <node name="local_path_publisher" pkg="control" type="local_path_pub.py" output="screen"/>
+</launch>
+

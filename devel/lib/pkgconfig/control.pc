@@ -1,0 +1,8 @@
+prefix=/home/a/erp42_ws/devel
+
+Name: control
+Description: Description of control
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

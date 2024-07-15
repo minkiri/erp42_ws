@@ -1,0 +1,5 @@
+<launch>
+    <!-- Path Publisher Node -->
+    <node name="gps_imu_pub" pkg="control" type="gpsimu_parser.py" output="screen"/>
+</launch>
+

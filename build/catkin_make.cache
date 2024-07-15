@@ -1,0 +1,2 @@
+control:erp_driver:ouster-ros:rockauto_msgs:usb_cam:vehicle_can_msg_pkg:velodyne_driver:yolov8_ROS
+-DCATKIN_DEVEL_PREFIX=/home/a/erp42_ws/devel -DCMAKE_INSTALL_PREFIX=/home/a/erp42_ws/install -G Unix Makefiles

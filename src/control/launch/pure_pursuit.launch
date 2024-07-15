@@ -1,0 +1,8 @@
+<launch>
+    <!-- Path Publisher Node -->
+    <node name="path_pub" pkg="control" type="local_path_pub.py" output="screen"/>
+    
+    <!-- Pure Pursuit Node -->
+    <node name="pure_pursuit" pkg="control" type="pure_pursuit_just_path.py" output="screen"/>
+</launch>
+

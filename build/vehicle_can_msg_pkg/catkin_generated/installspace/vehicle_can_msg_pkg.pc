@@ -1,0 +1,8 @@
+prefix=/home/a/erp42_ws/install
+
+Name: vehicle_can_msg_pkg
+Description: Description of vehicle_can_msg_pkg
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
